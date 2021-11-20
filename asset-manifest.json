@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/firebase-auth/static/css/main.061c4d19.chunk.css",
-    "main.js": "/firebase-auth/static/js/main.aa018911.chunk.js",
-    "main.js.map": "/firebase-auth/static/js/main.aa018911.chunk.js.map",
+    "main.js": "/firebase-auth/static/js/main.7e68563b.chunk.js",
+    "main.js.map": "/firebase-auth/static/js/main.7e68563b.chunk.js.map",
     "runtime-main.js": "/firebase-auth/static/js/runtime-main.3892f453.js",
     "runtime-main.js.map": "/firebase-auth/static/js/runtime-main.3892f453.js.map",
     "static/js/2.22ca4e28.chunk.js": "/firebase-auth/static/js/2.22ca4e28.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3892f453.js",
     "static/js/2.22ca4e28.chunk.js",
     "static/css/main.061c4d19.chunk.css",
-    "static/js/main.aa018911.chunk.js"
+    "static/js/main.7e68563b.chunk.js"
   ]
 }
